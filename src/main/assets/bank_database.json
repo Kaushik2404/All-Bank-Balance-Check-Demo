@@ -1,0 +1,930 @@
+[
+  {
+    "header": "true",
+    "bankType": "POPULAR"
+  },
+  {
+    "id": 1,
+    "bankName": "Bank of Baroda (BOB)",
+    "bankType": "POPULAR",
+    "bankBalanceNo": 8468001111,
+    "miniStatement": 84680001122,
+    "blockAtmCard": 18001024455,
+    "header": "false",
+    "url": "https://www.bobibanking.com/"
+  },
+  {
+    "id": 2,
+    "bankName": "State  Bank of India (SBI)",
+    "bankType": "POPULAR",
+    "bankBalanceNo": 9223766666,
+    "miniStatement": 9223866666,
+    "blockAtmCard": 18004253800,
+    "header": "false",
+    "url": "https://retail.onlinesbi.sbi/retail/login.htm"
+  },
+  {
+    "id": 3,
+    "bankName": "Allahabad Bank",
+    "bankType": "POPULAR",
+    "bankBalanceNo": 9289592895,
+    "miniStatement": 9444394443,
+    "blockAtmCard": 18004250000,
+    "header": "false",
+    "url": "https://www.netbanking.indianbank.in/jsp/startIBPreview.jsp"
+  },
+  {
+    "id": 4,
+    "bankName": "Bank of India (BOI)",
+    "bankType": "POPULAR",
+    "bankBalanceNo": 9015135135,
+    "miniStatement": 9015135135,
+    "blockAtmCard": 18004251112,
+
+    "header": "false",
+    "url": "https://www.bankofindia.co.in/"
+  },
+  {
+    "id": 5,
+    "bankName": "Canara Bank",
+    "bankType": "POPULAR",
+    "bankBalanceNo": 9015483483,
+    "miniStatement": 9015734734,
+    "blockAtmCard": 18004250018,
+
+    "header": "false",
+    "url": "https://netbanking.canarabank.in/entry/ENULogin.jsp"
+  },
+  {
+    "id": 6,
+    "bankName": "Punjab National Bank (PNB)",
+    "bankType": "POPULAR",
+    "bankBalanceNo": 18001802223,
+    "blockAtmCard": 180018002222,
+    "header": "false",
+    "url": "https://pnbibanking.in/"
+  },
+  {
+    "header": "true",
+    "bankType": "ALL"
+  },
+  {
+    "id": 7,
+    "bankName": "Axis Bank",
+    "bankType": "ALL",
+    "bankBalanceNo": 18004195959,
+    "miniStatement": 18004196969,
+    "blockAtmCard": 18604195555,
+    "header": "false",
+    "url": "https://retail.axisbank.co.in/"
+  },
+  {
+    "id": 8,
+    "bankName": "HDFC Bank",
+    "bankType": "ALL",
+    "bankBalanceNo": 18002703333,
+    "miniStatement": 18002703355,
+    "blockAtmCard": 2061606161,
+    "header": "false",
+    "url": "https://netbanking.hdfcbank.com/"
+  },
+  {
+    "id": 9,
+    "bankName": "ICICI Bank",
+    "bankType": "ALL",
+    "bankBalanceNo": 9594612612,
+    "miniStatement": 2230256868,
+    "header": "false",
+    "blockAtmCard": 18601207777,
+    "url": "https://infinity.icicibank.com/corp/AuthenticationController?FORMSGROUP_ID__=AuthenticationFG&__START_TRAN_FLAG__=Y&FG_BUTTONS__=LOAD&ACTION.LOAD=Y&AuthenticationFG.LOGIN_FLAG=1&BANK_ID=ICI&ACCESS_DEV=WAP&ITM=nli_primer_login_btn_mob"
+  },
+  {
+    "id": 10,
+    "bankName": "ABN Amro Bank",
+    "bankType": "ALL",
+    "bankBalanceNo": 1800112224,
+    "header": "false",
+    "blockAtmCard": 1800112224,
+    "url": "https://www.abnamro.com/en/home"
+  },
+  {
+    "id": 11,
+    "bankName": "American Express",
+    "bankType": "ALL",
+    "header": "false",
+    "blockAtmCard": 18004193646,
+    "url": "https://www.americanexpress.com/en-in/account/login?DestPage=https%3A%2F%2Fglobal.americanexpress.com%2Fdashboard%3Finav%3Din_utility_login"
+  },
+  {
+    "id": 12,
+    "bankName": "Andhra Bank",
+    "bankType": "ALL",
+    "bankBalanceNo": 9223008586,
+    "miniStatement": 92223008486,
+    "blockAtmCard": 18002082244,
+    "header": "false",
+    "url": "https://www.unionbankofindia.co.in/english/home.aspx"
+  },
+  {
+    "id": 13,
+    "bankName": "ANZ Bank",
+    "bankType": "ALL",
+    "bankBalanceNo": 18002000269,
+    "blockAtmCard": 18002000269,
+    "header": "false",
+    "url": "https://login.anz.com/internetbanking"
+  },
+  {
+    "id": 14,
+    "bankName": "AU Small Finance Bank",
+    "bankType": "ALL",
+    "bankBalanceNo": 18001202586,
+    "miniStatement": 18001212586,
+    "blockAtmCard": 1800120012000,
+    "header": "false",
+    "url": "https://www.aubank.in/personal-banking/digital-banking/au-0101/au-0101-netbanking"
+  },
+  {
+    "id": 15,
+    "bankName": "Bandhan Bank",
+    "bankType": "ALL",
+    "bankBalanceNo": 9223008666,
+    "miniStatement": 9223008666,
+    "blockAtmCard": 18002588181,
+    "header": "false",
+    "url": "https://bandhanbankonline.com/netbanking/#/"
+  },
+  {
+    "id": 16,
+    "bankName": "Bank of Maharastra",
+    "bankType": "ALL",
+    "bankBalanceNo": 922228181,
+    "miniStatement": 9222281818,
+    "blockAtmCard": 18002334526,
+    "header": "false",
+    "url": "https://www.mahaconnect.in/jsp/index.html"
+  },
+  {
+    "id": 17,
+    "bankName": "Barclays Bank",
+    "bankType": "ALL",
+    "bankBalanceNo": 2260007888,
+    "miniStatement": 2260007888,
+    "blockAtmCard": 2260007888,
+    "header": "false",
+    "url": "https://www.netbanking.barclays.in/B002/login.jsp"
+  },
+  {
+    "id": 18,
+    "bankName": "Bhartiya Mahila Bank",
+    "bankType": "ALL",
+    "bankBalanceNo": 9212438888,
+    "miniStatement": 9212438888,
+    "header": "false",
+    "blockAtmCard": 11474721000
+  },
+  {
+    "id": 19,
+    "bankName": "Central Bank of India",
+    "bankType": "ALL",
+    "bankBalanceNo": 9555844442,
+    "miniStatement": 9555144441,
+    "header": "false",
+    "blockAtmCard": 1800221911,
+    "url": "https://www.centralbankofindia.co.in/English/onlinebanking.aspx"
+  },
+  {
+    "id": 20,
+    "bankName": "Citi Bank",
+    "bankType": "ALL",
+    "bankBalanceNo": 1800442265,
+    "miniStatement": 1800442265,
+    "header": "false",
+    "blockAtmCard": 18002672425,
+    "url": "https://www.online.citibank.co.in/personal-banking/internet-banking"
+  },
+  {
+    "id": 21,
+    "bankName": "Corporation Bank",
+    "bankType": "ALL",
+    "bankBalanceNo": 9223008586,
+    "miniStatement": 9223008486,
+    "header": "false",
+    "blockAtmCard": 18002082244,
+    "url": "https://www.unionbankofindia.co.in/english/home.aspx"
+  },
+  {
+    "id": 22,
+    "bankName": "Cosmos Bank",
+    "bankType": "ALL",
+    "bankBalanceNo": 9029013793,
+    "miniStatement": 9029013793,
+    "header": "false",
+    "blockAtmCard": 18002330234,
+    "url": "https://online.cosmosbank.in/"
+  },
+  {
+    "id": 23,
+    "bankName": "DCB Bank",
+    "bankType": "ALL",
+    "bankBalanceNo": 7506660011,
+    "miniStatement": 7506660022,
+    "header": "false",
+    "blockAtmCard": 18002095363,
+    "url": "https://www.dcbbank.com/cms/showpage/page/personal-internet-banking"
+  },
+  {
+    "id": 24,
+    "bankName": "Dena Bank",
+    "bankType": "ALL",
+    "bankBalanceNo": 8468001111,
+    "miniStatement": 8468001122,
+    "header": "false",
+    "blockAtmCard": 18001024455
+  },
+  {
+    "id": 25,
+    "bankName": "Deutsche Bank",
+    "bankType": "ALL",
+    "bankBalanceNo": 8067747700,
+    "miniStatement": 180012366001,
+    "header": "false",
+    "blockAtmCard": 180012366001,
+    "url": "https://login.deutschebank.co.in/"
+  },
+  {
+    "id": 26,
+    "bankName": "Dhanlaxmi Bank",
+    "bankType": "ALL",
+    "bankBalanceNo": 8067747700,
+    "header": "false",
+    "blockAtmCard": 4876613000,
+    "url": "https://netbank.dhanbank.in/DBRetailBank/"
+  },
+  {
+    "id": 27,
+    "bankName": "Federal Bank",
+    "bankType": "ALL",
+    "bankBalanceNo": 8431900900,
+    "miniStatement": 84316006000,
+    "header": "false",
+    "blockAtmCard": 180004251199,
+    "url": "https://www.fednetbank.com/"
+  },
+  {
+    "id": 28,
+    "bankName": "HSBC Bank",
+    "bankType": "ALL",
+    "miniStatement": 9611224722,
+    "header": "false",
+    "blockAtmCard": 18001087788,
+    "url": "https://www.hsbc.co.in/"
+  },
+  {
+    "id": 29,
+    "bankName": "IDBI Bank",
+    "bankType": "ALL",
+    "bankBalanceNo": 18008431122,
+    "miniStatement": 18008431133,
+    "header": "false",
+    "blockAtmCard": 180042576000,
+    "url": "https://www.idbibank.in/idbi-bank-internet-banking.aspx"
+  },
+  {
+    "id": 30,
+    "bankName": "IDFC BAnk",
+    "bankType": "ALL",
+    "bankBalanceNo": 9289289960,
+    "miniStatement": 18002700720,
+    "header": "false",
+    "blockAtmCard": 180004194332,
+    "url": "https://my.idfcfirstbank.com/login"
+  },
+  {
+    "id": 31,
+    "bankName": "Indian Bank",
+    "bankType": "ALL",
+    "bankBalanceNo": 9289592895,
+    "miniStatement": 9444394443,
+    "header": "false",
+    "blockAtmCard": 180042500000,
+    "url": "https://www.indianbank.net.in/jsp/startIB.jsp"
+  },
+  {
+    "id": 32,
+    "bankName": "Indian Overseas Bank",
+    "bankType": "ALL",
+    "bankBalanceNo": 18004254445,
+    "header": "false",
+    "blockAtmCard": 18004257744,
+    "url": "https://www.iobnet.co.in/index1.html"
+  },
+  {
+    "id": 33,
+    "bankName": "India Post Payments Bank",
+    "bankType": "ALL",
+    "bankBalanceNo": 8424046556,
+    "miniStatement": 8424026886,
+    "header": "false",
+    "blockAtmCard": 1800018007980,
+    "url": "https://www.ippbonline.com/"
+  },
+  {
+    "id": 34,
+    "bankName": "IndusInd Bank",
+    "bankType": "ALL",
+    "bankBalanceNo": 18002741000,
+    "miniStatement": 9212299955,
+    "header": "false",
+    "blockAtmCard": 18605005004,
+    "url": "https://www.indusind.com/in/en/personal.html"
+  },
+  {
+    "id": 35,
+    "bankName": "Karnataka Bank",
+    "bankType": "ALL",
+    "bankBalanceNo": 18004251445,
+    "miniStatement": 180004251446,
+    "header": "false",
+    "blockAtmCard": 180004251444
+  },
+  {
+    "id": 36,
+    "bankName": "Karur Vysya Bank",
+    "bankType": "ALL",
+    "bankBalanceNo": 9226292666,
+    "miniStatement": 9266292665,
+    "blockAtmCard": 18602581316,
+    "header": "false",
+    "url": "https://www.kvbin.com/B001/ENULogin.jsp"
+  },
+  {
+    "id": 37,
+    "bankName": "Kotak Mahindra Bank",
+    "bankType": "ALL",
+    "bankBalanceNo": 18002740110,
+    "miniStatement": 180027400110,
+    "blockAtmCard": 18602662666,
+    "header": "false",
+    "url": "https://netbanking.kotak.com/knb2/"
+  },
+  {
+    "id": 38,
+    "bankName": "Lakshmi Vilas Bank",
+    "bankType": "ALL",
+    "bankBalanceNo": 9282441155,
+    "miniStatement": 9282441155,
+    "blockAtmCard": 18004252233,
+    "header": "false",
+    "url": "https://www.lvbankonline.in/index.html?module=login"
+  },
+  {
+    "id": 39,
+    "bankName": "Oriental Bank of Commerce (OBC)",
+    "bankType": "ALL",
+    "bankBalanceNo": 9915622622,
+    "miniStatement": 8067205767,
+    "header": "false",
+    "blockAtmCard": 180001801235,
+    "url": "https://netpnb.com/"
+  },
+  {
+    "id": 40,
+    "bankName": "Punjab & Sindh Bank",
+    "bankType": "ALL",
+    "bankBalanceNo": 7039035156,
+    "header": "false",
+    "miniStatement": 9773056161,
+    "blockAtmCard": 18004198300,
+    "url": "https://www.psbindia.com/module/404/404.php"
+  },
+  {
+    "id": 41,
+    "bankName": "RBL Bank",
+    "bankType": "ALL",
+    "bankBalanceNo": 18004190610,
+    "header": "false",
+    "miniStatement": 18004190610,
+    "blockAtmCard": 22711909000,
+    "url": "https://www.rblbank.com/"
+  },
+  {
+    "id": 42,
+    "bankName": "Royal Bank of Scotland",
+    "bankType": "ALL",
+    "bankBalanceNo": 9227148472,
+    "header": "false",
+    "blockAtmCard": 1800112224,
+    "url": "https://www.rbs.co.uk/"
+  },
+  {
+    "id": 43,
+    "bankName": "South India Bank",
+    "bankType": "ALL",
+    "bankBalanceNo": 9223008488,
+    "header": "false",
+    "miniStatement": 9223866666,
+    "blockAtmCard": 9446475458,
+    "url": "https://sibernet.southindianbank.com/corp/AuthenticationController?FORMSGROUP_ID__=AuthenticationFG&__START_TRAN_FLAG__=Y&FG_BUTTONS__=LOAD&ACTION.LOAD=Y&AuthenticationFG.LOGIN_FLAG=1&BANK_ID=059"
+  },
+  {
+    "id": 44,
+    "bankName": "State Bank of Bikaner & jaipur",
+    "bankType": "ALL",
+    "bankBalanceNo": 9223866666,
+    "miniStatement": 9229866666,
+    "header": "false",
+    "blockAtmCard": 180018060005,
+    "url": "https://retail.onlinesbi.sbi/retail/login.htm"
+  },
+  {
+    "id": 45,
+    "bankName": "State Bank of Hyderabad",
+    "bankType": "ALL",
+    "bankBalanceNo": 9223766666,
+    "miniStatement": 9223866666,
+    "header": "false",
+    "blockAtmCard": 1800112211,
+    "url": "https://retail.onlinesbi.sbi/retail/login.htm"
+  },
+  {
+    "id": 46,
+    "bankName": "State Bank of Mysore",
+    "bankType": "ALL",
+    "bankBalanceNo": 18004252244,
+    "miniStatement": 9223866666,
+    "header": "false",
+    "blockAtmCard": 1800112211,
+    "url": "https://retail.onlinesbi.sbi/retail/login.htm"
+  },
+  {
+    "id": 47,
+    "bankName": "State Bank of Patiyala",
+    "bankType": "ALL",
+    "bankBalanceNo": 18001802010,
+    "header": "false",
+    "miniStatement": 9223866666,
+    "blockAtmCard": 1800112211,
+    "url": "https://retail.onlinesbi.sbi/retail/login.htm"
+  },
+  {
+    "id": 48,
+    "bankName": "State Bank of Travancore",
+    "bankType": "ALL",
+    "bankBalanceNo": 9223866666,
+    "miniStatement": 9223866666,
+    "header": "false",
+    "blockAtmCard": 1800112211,
+    "url": "https://retail.onlinesbi.sbi/retail/login.htm"
+  },
+  {
+    "id": 49,
+    "bankName": "Syndicate Bank",
+    "bankType": "ALL",
+    "bankBalanceNo": 9015483483,
+    "miniStatement": 9015734734,
+    "header": "false",
+    "blockAtmCard": 18004250018
+  },
+  {
+    "id": 50,
+    "bankName": "Tamilnad Mercantile Bank (TMB)",
+    "bankType": "ALL",
+    "bankBalanceNo": 9211937373,
+    "miniStatement": 9211947474,
+    "blockAtmCard": 9842461461,
+    "header": "false",
+    "url": "https://www.tmbnet.in/"
+  },
+  {
+    "id": 51,
+    "bankName": "UCO Bank",
+    "bankType": "ALL",
+    "bankBalanceNo": 9278792787,
+    "miniStatement": 9213125125,
+    "header": "false",
+    "blockAtmCard": 18001030123,
+    "url": "https://www.ucobank.com/Hindi/homehindi.aspx"
+  },
+  {
+    "id": 52,
+    "bankName": "Ujjivan Small Finanace Bank",
+    "bankType": "ALL",
+    "bankBalanceNo": 18002082121,
+    "miniStatement": 18002082121,
+    "header": "false",
+    "blockAtmCard": 18002082121,
+    "url": "https://netbanking.ujjivansfb.in/Ujjivan/"
+  },
+  {
+    "id": 53,
+    "bankName": "Union Bank of India",
+    "bankType": "ALL",
+    "bankBalanceNo": 9223008586,
+    "miniStatement": 9213125125,
+    "header": "false",
+    "blockAtmCard": 18001030123,
+    "url": "https://www.unionbankonline.co.in/"
+  },
+  {
+    "id": 54,
+    "bankName": "United Bank of India",
+    "bankType": "ALL",
+    "bankBalanceNo": 9015431345,
+    "blockAtmCard": 18001033470,
+    "header": "false",
+    "url": "https://netpnb.com/"
+  },
+  {
+    "id": 55,
+    "bankName": "Varachha Cooprative Bank Limited",
+    "bankType": "ALL",
+    "bankBalanceNo": 2614008080,
+    "header": "false",
+    "blockAtmCard": 18001033470,
+    "url": "https://netbanking.varachhabank.com/inet/"
+  },
+  {
+    "id": 56,
+    "bankName": "Vijaya Bank",
+    "bankType": "ALL",
+    "bankBalanceNo": 18002665555,
+    "miniStatement": 18001035535,
+    "header": "false",
+    "blockAtmCard": 18004255885,
+    "url": "https://www.bobibanking.com/"
+  },
+  {
+    "id": 57,
+    "bankName": "Yes Bank",
+    "bankType": "ALL",
+    "bankBalanceNo": 9223920000,
+    "miniStatement": 9223921111,
+    "header": "false",
+    "blockAtmCard": 18001200,
+    "url": "https://www.yesbank.in/retail-disclaimer"
+  },
+  {
+    "id": 58,
+    "bankName": "Jammu & Kashmir Bank",
+    "bankType": "ALL",
+    "bankBalanceNo": 18001800234,
+    "header": "false",
+    "blockAtmCard": 19424819999
+  },
+  {
+    "header": "true",
+    "bankType": "GRAMIN"
+  },
+  {
+    "id": 59,
+    "bankName": "Andhra Pragathi Grameena Bank",
+    "bankType": "GRAMIN",
+    "bankBalanceNo": 9289222024,
+    "miniStatement": 18004252045,
+    "blockAtmCard": 18004252045,
+    "header": "false",
+    "url": "https://www.apgbonline.in/APGB/"
+  },
+  {
+    "id": 60,
+    "bankName": "Assam Gramin Vikash Bank",
+    "bankType": "GRAMIN",
+    "blockAtmCard": 3612464107,
+    "header": "false",
+    "url": "https://www.agvbank.co.in/"
+  },
+  {
+    "id": 61,
+    "bankName": "Bangiya gramin vikash bank",
+    "bankType": "GRAMIN",
+    "header": "false"
+  },
+  {
+    "id": 62,
+    "bankName": "Baroda Gujrat Gramin Bank",
+    "bankType": "GRAMIN",
+    "bankBalanceNo": 7829977711,
+    "miniStatement": 180030109636,
+    "header": "false",
+    "url": "https://ibanking.barodarrb.co.in/gj/"
+  },
+  {
+    "id": 63,
+    "bankName": "Baroda Rajasthan Kshetriya Grammin Bank",
+    "bankType": "GRAMIN",
+    "bankBalanceNo": 1800229779,
+    "miniStatement": 1800229779,
+    "blockAtmCard": 1800229779,
+    "header": "false",
+    "url": "https://ibanking.barodarrb.co.in/RJ/"
+  },
+  {
+    "id": 64,
+    "bankName": "Baroda U.P. Gramin Bank",
+    "bankType": "GRAMIN",
+    "header": "false",
+    "url": "https://ibanking.barodarrb.co.in/up/"
+  },
+  {
+    "id": 65,
+    "bankName": "Bombay Mercantile Co Op Bank Limited",
+    "bankType": "GRAMIN",
+    "bankBalanceNo": 9512004406,
+    "miniStatement": 9512004407,
+    "blockAtmCard": 1800220854,
+    "header": "false",
+    "url": "https://www.bmcbankltd.com/"
+  },
+  {
+    "id": 66,
+    "bankName": "Chaitanya Godavari Grameena Bank",
+    "bankType": "GRAMIN",
+    "bankBalanceNo": 18004256708,
+    "miniStatement": 18004256708,
+    "blockAtmCard": 18004256708,
+    "header": "false"
+  },
+  {
+    "id": 67,
+    "bankName": "Chhattisgarh Rajya Gramin Bank",
+    "bankType": "GRAMIN",
+    "bankBalanceNo": 9289221579,
+    "miniStatement": 18002332300,
+    "blockAtmCard": 18002332300,
+    "header": "false",
+    "url": "https://www.cgbank.in/"
+  },
+  {
+    "id": 68,
+    "bankName": "Dakshin Bihar Gramin bank",
+    "bankType": "GRAMIN",
+    "bankBalanceNo": 18001807777,
+    "miniStatement": 18001807777,
+    "blockAtmCard": 18001807777,
+    "header": "false",
+    "url": "https://www.dbgb.in/"
+  },
+  {
+    "id": 69,
+    "bankName": "Fino Payments Bank",
+    "bankType": "GRAMIN",
+    "bankBalanceNo": 18602663466,
+    "miniStatement": 18602663466,
+    "blockAtmCard": 18602663466,
+    "header": "false",
+    "url": "https://netbanking.finobank.com/#"
+  },
+  {
+    "id": 70,
+    "bankName": "Gramin Bank of Aryavart",
+    "bankType": "GRAMIN",
+    "bankBalanceNo": 8173900101,
+    "header": "false",
+    "miniStatement": 8173900101
+  },
+  {
+    "id": 71,
+    "bankName": "Himachal Pradesh Gramin Bank",
+    "bankType": "GRAMIN",
+    "bankBalanceNo": 18001807777,
+    "miniStatement": 18001807777,
+    "blockAtmCard": 18001807777,
+    "header": "false",
+    "url": "https://www.hpgb.in/"
+  },
+  {
+    "id": 72,
+    "bankName": "Janaseva Sahakari Bank",
+    "bankType": "GRAMIN",
+    "bankBalanceNo": 7208053730,
+    "miniStatement": 7208053730,
+    "header": "false",
+    "blockAtmCard": 18001200304,
+    "url": "https://netbank.janasevabank.in/Screens/HomePage.aspx"
+  },
+  {
+    "id": 73,
+    "bankName": "Karnataka Gramin Bank",
+    "bankType": "GRAMIN",
+    "bankBalanceNo": 9015800700,
+    "miniStatement": 90015800700,
+    "header": "false",
+    "blockAtmCard": 18001025250,
+    "url": "https://karnatakagraminbank.com/"
+  },
+  {
+    "id": 74,
+    "bankName": "Karnataka Vikas Grameen Bank",
+    "bankType": "GRAMIN",
+    "bankBalanceNo": 18004251446,
+    "miniStatement": 18004251666,
+    "header": "false",
+    "blockAtmCard": 18004251666,
+    "url": "https://www.syndrrbs.com/KVGB/login"
+  },
+  {
+    "id": 75,
+    "bankName": "Kashi Gomati Samyut Gramin Bank",
+    "bankType": "GRAMIN",
+    "bankBalanceNo": 5422220268,
+    "miniStatement": 5422220268,
+    "header": "false",
+    "blockAtmCard": 5422220268
+  },
+  {
+    "id": 76,
+    "bankName": "Kaveri Gramin Bank",
+    "bankType": "GRAMIN",
+    "bankBalanceNo": 9015800700,
+    "miniStatement": 9015800700,
+    "blockAtmCard": 180042503232,
+    "header": "false",
+    "url": "https://karnatakagraminbank.com/"
+  },
+  {
+    "id": 77,
+    "bankName": "Kerala gramin bank",
+    "bankType": "GRAMIN",
+    "bankBalanceNo": 9015800400,
+    "miniStatement": 9015800400,
+    "header": "false",
+    "blockAtmCard": 4832733509,
+    "url": "https://keralagbank.com/"
+  },
+  {
+    "id": 78,
+    "bankName": "Madhya Bihar Gramin Bank",
+    "bankType": "GRAMIN",
+    "bankBalanceNo": 180018007777,
+    "miniStatement": 18001807777,
+    "header": "false",
+    "blockAtmCard": 18001807777
+  },
+  {
+    "id": 79,
+    "bankName": "Madhyanchal Gramin Bank",
+    "header": "false",
+    "bankType": "GRAMIN"
+  },
+  {
+    "id": 80,
+    "bankName": "Maharastra Gramin Bank",
+    "bankType": "GRAMIN",
+    "bankBalanceNo": 18002332133,
+    "miniStatement": 18002332133,
+    "header": "false",
+    "url": "https://www.mahagramin.in/"
+  },
+  {
+    "id": 81,
+    "bankName": "Manipur Rural Bank",
+    "bankType": "GRAMIN",
+    "bankBalanceNo": 3852451590,
+    "miniStatement": 3852451590,
+    "header": "false",
+    "blockAtmCard": 3852451590,
+    "url": "https://manipurruralbank.com/"
+  },
+  {
+    "id": 82,
+    "bankName": "Narmada jhabua gramin",
+    "bankType": "GRAMIN",
+    "bankBalanceNo": 18002336295,
+    "miniStatement": 18002336295,
+    "header": "false",
+    "blockAtmCard": 18002336295,
+    "url": "https://mpgb.co.in/"
+  },
+  {
+    "id": 83,
+    "bankName": "Odisha Gramya Bank",
+    "bankType": "GRAMIN",
+    "header": "false",
+    "bankBalanceNo": 8448290045,
+    "url": "https://odishabank.in/"
+  },
+  {
+    "id": 84,
+    "bankName": "Pallavan Grama bank",
+    "bankType": "GRAMIN",
+    "bankBalanceNo": 928920222,
+    "miniStatement": 9289202222,
+    "header": "false",
+    "url": "https://www.tamilnadugramabank.com/"
+  },
+  {
+    "id": 85,
+    "bankName": "Pragati Krishna Gramin Bank",
+    "bankType": "GRAMIN",
+    "bankBalanceNo": 90158000700,
+    "header": "false",
+    "miniStatement": 9015800700,
+    "blockAtmCard": 18001025250,
+    "url": "https://karnatakagraminbank.com/"
+  },
+  {
+    "id": 86,
+    "bankName": "Prathma U.P. Gramin Bank",
+    "bankType": "GRAMIN",
+    "bankBalanceNo": 18008331555,
+    "miniStatement": 18008331555,
+    "header": "false",
+    "blockAtmCard": 18008331555,
+    "url": "https://www.prathamaupbank.com/"
+  },
+  {
+    "id": 87,
+    "bankName": "Punjab Gramin Bank",
+    "bankType": "GRAMIN",
+    "header": "false",
+    "url": "https://pgb.org.in/"
+  },
+  {
+    "id": 88,
+    "bankName": "Purvanchal Bank",
+    "bankType": "GRAMIN",
+    "bankBalanceNo": 9266592669,
+    "header": "false",
+    "miniStatement": 9266592669
+  },
+  {
+    "id": 89,
+    "bankName": "Rajsthan Marudhara Gramin Bank",
+    "bankType": "GRAMIN",
+    "bankBalanceNo": 8750187504,
+    "miniStatement": 2912593100,
+    "header": "false",
+    "blockAtmCard": 2912593100
+  },
+  {
+    "id": 90,
+    "bankName": "Saptagiri Grameena Bank",
+    "bankType": "GRAMIN",
+    "bankBalanceNo": 8572233598,
+    "miniStatement": 8572233598,
+    "header": "false",
+    "blockAtmCard": 8572233598,
+    "url": "https://www.saptagirigrameenabank.in/"
+  },
+  {
+    "id": 91,
+    "bankName": "Sarva Haryana Gramin Bank",
+    "bankType": "GRAMIN",
+    "bankBalanceNo": 18001807777,
+    "miniStatement": 18001807777,
+    "header": "false",
+    "blockAtmCard": 18001807777,
+    "url": "https://www.shgb.co.in/"
+  },
+  {
+    "id": 92,
+    "bankName": "Sarva UP Gramin Bank",
+    "bankType": "GRAMIN",
+    "bankBalanceNo": 18001807777,
+    "miniStatement": 18001807777,
+    "header": "false",
+    "blockAtmCard": 18001807777
+  },
+  {
+    "id": 93,
+    "bankName": "Saurashtra Grammin Bank",
+    "bankType": "GRAMIN",
+    "header": "false",
+    "url": "https://sgbrrb.org/"
+  },
+  {
+    "id": 94,
+    "bankName": "Tamil Nadu Grama Bank",
+    "bankType": "GRAMIN",
+    "header": "false",
+    "bankBalanceNo": 9289202222,
+    "url": "https://www.tamilnadugramabank.com/"
+  },
+  {
+    "id": 95,
+    "bankName": "Tripura gramin bank",
+    "header": "false",
+    "bankType": "GRAMIN",
+    "url": "https://www.tripuragraminbank.org/"
+  },
+  {
+    "id": 96,
+    "bankName": "Utkal Grameen bank",
+    "header": "false",
+    "bankType": "GRAMIN"
+  },
+  {
+    "id": 97,
+    "bankName": "Uttar Bihar Gramin Bank",
+    "header": "false",
+    "bankType": "GRAMIN"
+  },
+  {
+    "id": 98,
+    "bankName": "Vidharbha Konkan Gramin Bank",
+    "header": "false",
+    "bankType": "GRAMIN",
+    "url": "https://www.vkgb.co.in/#/"
+  }
+]
