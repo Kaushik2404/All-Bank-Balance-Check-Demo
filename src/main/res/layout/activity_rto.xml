@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activity.RtoActivity"
+    android:orientation="vertical"
+    android:background="@color/background">
+
+    <include
+        android:id="@+id/toolbar"
+        layout="@layout/rto_heder"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="search owner details of cars, bikes, buses, trucks"
+        android:layout_marginTop="20dp"
+        android:textSize="14dp"
+        android:textColor="#A4000000"
+        android:fontFamily="@font/poppins_regular"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Vehicle Number"
+        android:textSize="15dp"
+        android:fontFamily="@font/poppins_regular"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+
+
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="5dp"
+        android:id="@+id/edVehicleNumber"
+        android:inputType="text"
+        android:padding="10dp"
+        android:elevation="3dp"
+        android:background="@drawable/backedt"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:hint="Enter Vehicle Number"
+        android:textSize="15dp"
+        android:fontFamily="@font/poppins_regular"
+
+        />
+
+    <LinearLayout
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:background="@drawable/btnback"
+        android:elevation="2dp"
+        android:layout_marginTop="40dp"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:id="@+id/btnSerch"
+        >
+        <ImageView
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:src="@drawable/serch"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Search"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:fontFamily="@font/poppins_regular"
+            android:layout_marginLeft="10dp"
+            android:textColor="#BF000000"
+            android:layout_marginTop="2dp"
+            />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/back_list_task"
+        android:elevation="3dp"
+        android:layout_marginTop="40dp"
+        android:id="@+id/Licence"
+        >
+
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/license"
+            android:layout_margin="10dp"
+
+
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15dp"
+            android:text="driving licence (DL) search"
+            android:fontFamily="@font/poppins_regular"
+            android:textStyle="bold"
+            android:textColor="#BA000000"
+            android:layout_gravity="center_vertical"
+
+            />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/back_list_task"
+        android:elevation="3dp"
+        android:layout_marginTop="25dp"
+        android:id="@+id/Find"
+        >
+
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/find"
+            android:layout_margin="10dp"
+
+
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15dp"
+            android:text="find challan details"
+            android:fontFamily="@font/poppins_regular"
+            android:textStyle="bold"
+            android:textColor="#BA000000"
+            android:layout_gravity="center_vertical"
+
+            />
+    </LinearLayout>
+
+
+
+
+
+
+
+
+
+</LinearLayout>
